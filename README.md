@@ -6,9 +6,7 @@
 # 
 B.Tech CSE Student at Echelon Institute of Technology
 
-Building projects in AI, Agentic AI, Full Stack Development, and Web3.
-
-## About
+Building projects in AI, Agentic AI, Full Stack Dev
 
 - Interested in Artificial Intelligence and Agentic Systems
 - Exploring Full Stack Development
