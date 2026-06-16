@@ -1,4 +1,4 @@
-<div align="center">
+"center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=ANKIT%20KUMAR&fontSize=52&fontColor=ffffff&animation=twinkling&color=timeGradient"/>
 
