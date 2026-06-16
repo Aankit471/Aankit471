@@ -14,12 +14,27 @@ Building projects in AI, Agentic AI, Full Stack Dev
 - Participating in Hackathons and Open Source
 
 ## Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
-Python • C++ • JavaScript
+<div align="center">
 
-HTML • CSS • React
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript&theme=dark" />
+<br>
+<sub>Languages</sub>
 
-Git • GitHub • VS Code
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<br>
+<sub>Frontend</sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<br>
+<sub>Tools</sub>
+
+</div>
 
 ## Currently Learning
 
