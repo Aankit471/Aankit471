@@ -1,26 +1,10 @@
-"center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=ANKIT%20KUMAR&fontSize=52&fontColor=ffffff&animation=twinkling&color=timeGradient"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI+•+FULL+STACK+•+WEB3;BUILDING+WHAT+MATTERS;TURNING+IDEAS+INTO+REALITY;LEARN+•+BUILD+•+SHIP" />
-
-<br>
-
-Building products, solving problems, and learning in public.
-
-</div>
-
----
-
 ## About
 
-Focused on building impactful solutions using AI, Agentic Systems, Full Stack Development, and emerging technologies.
+Building at the intersection of AI, software, and innovation.
 
-- Artificial Intelligence
-- Agentic AI
-- Full Stack Development
-- Web3 & Blockchain
-- Hackathons & Open Source
+Passionate about creating intelligent systems, exploring emerging technologies, and transforming ideas into impactful products.
+
+Driven by curiosity. Focused on execution.
 
 ---
 
@@ -44,15 +28,26 @@ Focused on building impactful solutions using AI, Agentic Systems, Full Stack De
 
 ## Currently Exploring
 
-- Data Structures & Algorithms
-- System Design
-- Cloud Computing
-- AI Agents
+<div align="center">
+
+🧠 Artificial Intelligence & Agentic Systems
+
+⚡ Data Structures & Algorithms
+
+🏗️ System Design
+
+☁️ Cloud Computing
+
+🤖 AI Agents & Automation
+
+</div>
 
 ---
 
 <div align="center">
 
-### Build what matters.
+<h3>Build what matters.</h3>
+
+<sub>Learning fast. Building faster.</sub>
 
 </div>
