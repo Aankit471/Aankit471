@@ -1,7 +1,6 @@
 <h3 align="center">Ankit Kumar</h3>
 
-# Ankit Kumar
-
+# 
 B.Tech CSE Student at Echelon Institute of Technology
 
 Building projects in AI, Agentic AI, Full Stack Development, and Web3.
