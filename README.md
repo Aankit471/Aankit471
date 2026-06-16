@@ -1,51 +1,35 @@
+# Ankit Kumar
 
-# 👋 Hey, I'm Ankit Kumar
+B.Tech CSE Student at Echelon Institute of Technology
 
-### 🚀 B.Tech CSE Student | AI Enthusiast | Full Stack Learner | Hackathon Builder
+Building projects in AI, Agentic AI, Full Stack Development, and Web3.
 
-> "Turning ideas into impactful projects through code and innovation."
+## About
 
-## 💡 About Me
+- Interested in Artificial Intelligence and Agentic Systems
+- Exploring Full Stack Development
+- Learning Web3 and Blockchain
+- Participating in Hackathons and Open Source
 
-🎓 Pursuing B.Tech in Computer Science at Echelon Institute of Technology
+## Tech Stack
 
-🔭 Currently exploring:
-- Artificial Intelligence & Agentic AI
-- Full Stack Development
-- Web3 & Blockchain
-- Cybersecurity
+Python • C++ • JavaScript
 
-🏆 Passionate about hackathons, innovation, and solving real-world problems.
+HTML • CSS • React
 
-## 🛠️ Tech Stack
+Git • GitHub • VS Code
 
-**Languages:** Python, C++, JavaScript
-
-**Frontend:** HTML, CSS, React
-
-**Tools:** Git, GitHub, VS Code
-
-**Areas of Interest:** AI, Agentic AI, Web3, Cybersecurity
-
-## 🌱 Currently Learning
+## Currently Learning
 
 - Data Structures & Algorithms
 - System Design
 - Cloud Computing
-- AI Agents & Automation
+- AI Agents
 
-## 🎯 Goals
+## Connect
 
-- Build impactful AI-powered products
-- Contribute to Open Source
-- Win Hackathons
-- Strengthen Software Engineering skills
-- Create technology that solves real-world problems
+GitHub: github.com/Aankit471
 
-## 📫 Connect With Me
+---
 
-🔗 GitHub: github.com/Aankit471
-
-## ⚡ Motto
-
-> Learn → Build → Ship → Improve → Repeat
+Learn → Build → Improve
