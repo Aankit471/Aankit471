@@ -1,12 +1,10 @@
 <div align="center">
 
-# Ankit Kumar
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=45&duration=2500&pause=1000&color=8B0000&center=true&vCenter=true&width=1200&height=100&lines=BUILDING+THE+FUTURE;CODE+%E2%80%A2+CREATE+%E2%80%A2+EVOLVE;AI+%E2%80%A2+WEB3+%E2%80%A2+SYSTEMS" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%E2%80%A2+Full+Stack+%E2%80%A2+Web3;Building+Products+That+Matter;Learning+%26+Building+In+Public" />
+<br>
 
-<p>
-Building products, solving problems, and learning every day.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,50:1A0000,100:8B0000&text=&reversal=false"/>
 
 </div>
 # Ankit Kumar
