@@ -1,4 +1,3 @@
-## About
 
 Building at the intersection of AI, software, and innovation.
 
