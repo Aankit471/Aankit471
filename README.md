@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**Aankit471/Aankit471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Ankit Kumar
 
-Here are some ideas to get you started:
+### 🚀 B.Tech CSE Student | AI Enthusiast | Full Stack Learner | Hackathon Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Turning ideas into impactful projects through code and innovation."
+
+## 💡 About Me
+
+🎓 Pursuing B.Tech in Computer Science at Echelon Institute of Technology
+
+🔭 Currently exploring:
+- Artificial Intelligence & Agentic AI
+- Full Stack Development
+- Web3 & Blockchain
+- Cybersecurity
+
+🏆 Passionate about hackathons, innovation, and solving real-world problems.
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C++, JavaScript
+
+**Frontend:** HTML, CSS, React
+
+**Tools:** Git, GitHub, VS Code
+
+**Areas of Interest:** AI, Agentic AI, Web3, Cybersecurity
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Cloud Computing
+- AI Agents & Automation
+
+## 🎯 Goals
+
+- Build impactful AI-powered products
+- Contribute to Open Source
+- Win Hackathons
+- Strengthen Software Engineering skills
+- Create technology that solves real-world problems
+
+## 📫 Connect With Me
+
+🔗 GitHub: github.com/Aankit471
+
+## ⚡ Motto
+
+> Learn → Build → Ship → Improve → Repeat
