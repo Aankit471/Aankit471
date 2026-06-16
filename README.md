@@ -1,3 +1,18 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=ANKIT%20KUMAR&fontSize=60&fontColor=ffffff&animation=twinkling&color=timeGradient"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=32&duration=1800&pause=800&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI+•+FULL+STACK+•+WEB3;BUILDING+WHAT+MATTERS;TURNING+IDEAS+INTO+REALITY" />
+
+<br>
+
+> Building products, solving problems, and learning in public.
+
+</div>
+
+---
+
+## About
 
 Building at the intersection of AI, software, and innovation.
 
@@ -29,15 +44,9 @@ Driven by curiosity. Focused on execution.
 
 <div align="center">
 
-🧠 Artificial Intelligence & Agentic Systems
+Artificial Intelligence • Agentic Systems • Data Structures & Algorithms
 
-⚡ Data Structures & Algorithms
-
-🏗️ System Design
-
-☁️ Cloud Computing
-
-🤖 AI Agents & Automation
+System Design • Cloud Computing • AI Agents
 
 </div>
 
@@ -45,7 +54,7 @@ Driven by curiosity. Focused on execution.
 
 <div align="center">
 
-<h3>Build what matters.</h3>
+### Build what matters.
 
 <sub>Learning fast. Building faster.</sub>
 
