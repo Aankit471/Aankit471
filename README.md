@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,20,18,12,0&text=ANKIT%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
 # 
 B.Tech CSE Student at Echelon Institute of Technology
 
