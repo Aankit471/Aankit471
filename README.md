@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Ankit+Kumar;AI+%7C+Full+Stack+%7C+Web3;Building+what+matters." />
+</p>
 # Ankit Kumar
 
 B.Tech CSE Student at Echelon Institute of Technology
