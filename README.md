@@ -2,15 +2,7 @@
 
 
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=45&duration=2500&pause=1000&color=8B0000&center=true&vCenter=true&width=1200&height=100&lines=BUILDING+THE+FUTURE;CODE+%E2%80%A2+CREATE+%E2%80%A2+EVOLVE;AI+%E2%80%A2+WEB3+%E2%80%A2+SYSTEMS" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,50:1A0000,100:8B0000&text=&reversal=false"/>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2500&pause=1200&color=B22222&center=true&vCenter=true&width=1200&height=100&lines=BUILDING+THE+FUTURE;AI+%E2%80%A2+WEB3+%E2%80%A2+FULL+STACK;TURNING+IDEAS+INTO+REALITY" />
 # Ankit Kumar
 
 B.Tech CSE Student at Echelon Institute of Technology
