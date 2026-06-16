@@ -1,6 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Ankit+Kumar;AI+%7C+Full+Stack+%7C+Web3;Building+what+matters." />
+<div align="center">
+
+# Ankit Kumar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%E2%80%A2+Full+Stack+%E2%80%A2+Web3;Building+Products+That+Matter;Learning+%26+Building+In+Public" />
+
+<p>
+Building products, solving problems, and learning every day.
 </p>
+
+</div>
 # Ankit Kumar
 
 B.Tech CSE Student at Echelon Institute of Technology
