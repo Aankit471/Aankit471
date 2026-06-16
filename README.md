@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,20,18,12,0&text=ANKIT%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn"/><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 # 
 B.Tech CSE Student at Echelon Institute of Technology
