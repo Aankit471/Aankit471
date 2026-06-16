@@ -1,4 +1,3 @@
-<h3 align="center">Ankit Kumar</h3>
 
 # 
 B.Tech CSE Student at Echelon Institute of Technology
